@@ -35,7 +35,7 @@ Create and save all cucumber feature files in the same folder
 
 #### To run tests
 
-Point to the directory where the standalone jar is saved
+In commandline, point to the directory where the standalone jar is saved
 
 e.g.
 ```C:\Karate```
